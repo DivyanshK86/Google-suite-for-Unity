@@ -1,5 +1,10 @@
 # Google-suite-for-Unity
 
+This includes the integration of
+- Google mobile ads sdk
+- Google play games sdk
+- Firebase sdk
+
 Points to Note
 
 - use Unity 2019.4.36
