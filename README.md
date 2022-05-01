@@ -3,7 +3,7 @@
 This includes the integration of
 - Google mobile ads sdk
 - Google play games sdk
-- Firebase sdk
+- Firebase realtime database sdk
 
 Points to Note
 
