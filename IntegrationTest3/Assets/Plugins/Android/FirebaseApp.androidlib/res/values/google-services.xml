@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://no-guns-50491883-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">944619847408</string>
+  <string name="google_storage_bucket" translatable="false">no-guns-50491883.appspot.com</string>
+  <string name="project_id" translatable="false">no-guns-50491883</string>
+  <string name="google_api_key" translatable="false">AIzaSyBJhDr5RUIX-l9uJZnVvBRX8sI8KN3rzFw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJhDr5RUIX-l9uJZnVvBRX8sI8KN3rzFw</string>
+  <string name="google_app_id" translatable="false">1:944619847408:android:806ae8530eed39136acc35</string>
+  <string name="default_web_client_id" translatable="false">944619847408-b0bls75huk3pnub973t1s4582jd678sr.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,23 @@
+Key File Name: GLITCH_MONSTER_NOGUNS_KEYSTORE.keystore
+Key File Alias: no guns
+Key File password: ob******
+Private Key File Name: NoGuns_Encryped_Private_Key
+MD5 certificate fingerprint: 65:FC:B1:55:EC:CE:3D:8B:7A:41:08:85:5A:48:44:38
+SHA-1 certificate fingerprint: E2:3A:27:C4:01:9C:85:A4:2F:01:4C:04:27:08:92:CC:05:7A:54:45
+SHA-256 certificate fingerprint: 60:E2:B7:66:74:B2:F7:B0:CB:F2:97:7D:84:0D:96:88:5A:C9:33:B8:8D:CB:47:97:50:4B:2F:4C:C4:99:6E:A1
+
+
+
+
+
+Digital Asset Links JSON
+
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.GLITCH_MONSTER.NO_GUNS",
+    "sha256_cert_fingerprints":
+      ["60:E2:B7:66:74:B2:F7:B0:CB:F2:97:7D:84:0D:96:88:5A:C9:33:B8:8D:CB:47:97:50:4B:2F:4C:C4:99:6E:A1"]
+   }
+}

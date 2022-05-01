@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944619847408",
+    "firebase_url": "https://no-guns-50491883-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "no-guns-50491883",
+    "storage_bucket": "no-guns-50491883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944619847408:android:806ae8530eed39136acc35",
+        "android_client_info": {
+          "package_name": "com.GLITCH_MONSTER.NO_GUNS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944619847408-b0bls75huk3pnub973t1s4582jd678sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhDr5RUIX-l9uJZnVvBRX8sI8KN3rzFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944619847408-b0bls75huk3pnub973t1s4582jd678sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
